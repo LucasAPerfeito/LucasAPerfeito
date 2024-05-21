@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Perfeito</h1>
 <h3 align="center">A passionate Data Guy from Brazil</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://outlane.co/now/new-shot-programmer-animation/”>
+<img align=“right” alt=“Coding” width=“400” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
 
 - 🔭 I’m currently working on **ETL Project**
 
